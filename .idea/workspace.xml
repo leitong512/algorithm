@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e59a358b-8f65-4d99-befd-d223f0a11fa8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter/03-复杂度分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter/03-复杂度分析.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
