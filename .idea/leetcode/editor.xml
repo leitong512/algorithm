@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[35]搜索插入位置.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[35]搜索插入位置.go" />
+              <option name="questionId" value="35" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[66]加一.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[66]加一.go" />
+              <option name="questionId" value="66" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[977]有序数组的平方.go">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$USER_HOME$/go/src/leetcode/leetcode/editor/cn/[977]有序数组的平方.go" />
+              <option name="questionId" value="1019" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
