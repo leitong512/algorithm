@@ -1,6 +1,9 @@
 package _6_linkedlist
 
-import "testing"
+import (
+	"fmt"
+	"testing"
+)
 
 func TestLinkedList_InsertToHead(t *testing.T) {
 	 l := NewLinkedList()
@@ -8,6 +11,7 @@ func TestLinkedList_InsertToHead(t *testing.T) {
 	 	l.InsertToHead(i+1)
 	 }
 	 l.Print()
+	 fmt.Println(l.length)
 }
 
 func TestLinkedList_InsertToTail(t *testing.T) {

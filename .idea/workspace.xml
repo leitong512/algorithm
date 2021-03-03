@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/06_linkedlist/single_linkedlist.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/06_linkedlist/single_linkedlist_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/07-链表(下).md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/06_linkedlist/palindrome.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/06_linkedlist/palindrome_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/06_linkedlist/single_linkedlist_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/06_linkedlist/single_linkedlist_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,27 +47,27 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Go Test.TestLinkedList_FindByIndex in algorithm/src/06_linkedlist">
-    <configuration name="TestArray_Delete in algorithm/src/05_array" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestIsPalindrome in algorithm/src/06_linkedlist">
+    <configuration name="TestIsPalindrome in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/05_array" />
+      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/05_array" />
+      <package value="algorithm/src/06_linkedlist" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestArray_Delete\E$" />
+      <pattern value="^\QTestIsPalindrome\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestArray_Find in algorithm/src/05_array" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestLinkedList_DeleteNode in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/05_array" />
+      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/05_array" />
+      <package value="algorithm/src/06_linkedlist" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestArray_Find\E$" />
+      <pattern value="^\QTestLinkedList_DeleteNode\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestLinkedList_FindByIndex in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -79,6 +81,17 @@
       <pattern value="^\QTestLinkedList_FindByIndex\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestLinkedList_InsertBefore in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/src/06_linkedlist" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLinkedList_InsertBefore\E$" />
+      <method v="2" />
+    </configuration>
     <configuration name="TestLinkedList_InsertToHead in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
@@ -90,24 +103,13 @@
       <pattern value="^\QTestLinkedList_InsertToHead\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLinkedList_InsertToTail in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/src/06_linkedlist" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_InsertToTail\E$" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestLinkedList_FindByIndex in algorithm/src/06_linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_InsertToTail in algorithm/src/06_linkedlist" />
+        <item itemvalue="Go Test.TestIsPalindrome in algorithm/src/06_linkedlist" />
         <item itemvalue="Go Test.TestLinkedList_InsertToHead in algorithm/src/06_linkedlist" />
-        <item itemvalue="Go Test.TestArray_Find in algorithm/src/05_array" />
-        <item itemvalue="Go Test.TestArray_Delete in algorithm/src/05_array" />
+        <item itemvalue="Go Test.TestLinkedList_InsertBefore in algorithm/src/06_linkedlist" />
+        <item itemvalue="Go Test.TestLinkedList_DeleteNode in algorithm/src/06_linkedlist" />
+        <item itemvalue="Go Test.TestLinkedList_FindByIndex in algorithm/src/06_linkedlist" />
       </list>
     </recent_temporary>
   </component>
