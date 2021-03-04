@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter/08-栈.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/07-linkedlist/linkedlist.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/07-linkedlist/linkedlist_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
