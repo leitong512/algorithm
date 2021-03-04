@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist_test.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07-linkedlist/linkedlist.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/07-linkedlist/linkedlist_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/07-linkedlist/linkedlist_test.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,16 +45,27 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Go Test.TestLinkedList_HasCycle in algorithm/src/07-linkedlist">
-    <configuration name="TestIsPalindrome in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist">
+    <configuration name="TestLinkedList_DeleteBottomN in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/06_linkedlist" />
+      <package value="algorithm/src/07-linkedlist" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestIsPalindrome\E$" />
+      <pattern value="^\QTestLinkedList_DeleteBottomN\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/src/07-linkedlist" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestLinkedList_FindMiddleNode\E$" />
       <method v="2" />
     </configuration>
     <configuration name="TestLinkedList_HasCycle in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
@@ -68,28 +79,6 @@
       <pattern value="^\QTestLinkedList_HasCycle\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLinkedList_InsertBefore in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/src/06_linkedlist" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_InsertBefore\E$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestLinkedList_InsertToHead in algorithm/src/06_linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/06_linkedlist" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="algorithm/src/06_linkedlist" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_InsertToHead\E$" />
-      <method v="2" />
-    </configuration>
     <configuration name="TestLinkedList_Reverse in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
       <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
@@ -101,13 +90,24 @@
       <pattern value="^\QTestLinkedList_Reverse\E$" />
       <method v="2" />
     </configuration>
+    <configuration name="TestMergeSortedList in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algorithm" />
+      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="algorithm/src/07-linkedlist" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestMergeSortedList\E$" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Test.TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist" />
+        <item itemvalue="Go Test.TestLinkedList_DeleteBottomN in algorithm/src/07-linkedlist" />
+        <item itemvalue="Go Test.TestMergeSortedList in algorithm/src/07-linkedlist" />
         <item itemvalue="Go Test.TestLinkedList_HasCycle in algorithm/src/07-linkedlist" />
         <item itemvalue="Go Test.TestLinkedList_Reverse in algorithm/src/07-linkedlist" />
-        <item itemvalue="Go Test.TestIsPalindrome in algorithm/src/06_linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_InsertToHead in algorithm/src/06_linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_InsertBefore in algorithm/src/06_linkedlist" />
       </list>
     </recent_temporary>
   </component>
