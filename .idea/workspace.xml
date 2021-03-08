@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/08-stack/SimpleBrowser.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/SimpleBrowser_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/StackBasedOnArray.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/StackBasedOnArray_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/StackBasedOnLinkedList.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/StackBasedOnLinkedList_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/08-stack/StackInterface.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter/09队列.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +37,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
