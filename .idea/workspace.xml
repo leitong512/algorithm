@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter/08-栈.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +29,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../sdk/go1.15.3" />
+  <component name="GOROOT" path="/usr/local/go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -40,6 +52,7 @@
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -114,6 +127,18 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
     <environment>
@@ -121,5 +146,23 @@
         <entry key="GOPROXY" value="https://goproxy.cn,direct" />
       </map>
     </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1351" height="226" key="GridCell.Tab.0.bottom" timestamp="1615637569821">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1351" height="226" key="GridCell.Tab.0.bottom/45.23.1395.877@45.23.1395.877" timestamp="1615637569821" />
+    <state width="1351" height="226" key="GridCell.Tab.0.center" timestamp="1615637569819">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1351" height="226" key="GridCell.Tab.0.center/45.23.1395.877@45.23.1395.877" timestamp="1615637569819" />
+    <state width="1351" height="226" key="GridCell.Tab.0.left" timestamp="1615637569815">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1351" height="226" key="GridCell.Tab.0.left/45.23.1395.877@45.23.1395.877" timestamp="1615637569815" />
+    <state width="1351" height="226" key="GridCell.Tab.0.right" timestamp="1615637569820">
+      <screen x="45" y="23" width="1395" height="877" />
+    </state>
+    <state width="1351" height="226" key="GridCell.Tab.0.right/45.23.1395.877@45.23.1395.877" timestamp="1615637569820" />
   </component>
 </project>
