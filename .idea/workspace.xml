@@ -15,6 +15,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="654636a7-bba4-4e92-8bf4-84ecab5fde02" name="Default Changelist" comment="">
+<<<<<<< HEAD
+=======
+      <change afterPath="$PROJECT_DIR$/chapter/09队列.md" afterDir="false" />
+>>>>>>> fd89ecbab2f4ad5642e25bd3afdfd534ddd0724d
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +53,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Markdown" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -57,69 +62,69 @@
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Go Test.TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist">
-    <configuration name="TestLinkedList_DeleteBottomN in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Test.TestBrowser in algorithm/src/08-stack">
+    <configuration name="TestArrayStack_Top in algorithm/src/08-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/08-stack" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/07-linkedlist" />
+      <package value="algorithm/src/08-stack" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_DeleteBottomN\E$" />
+      <pattern value="^\QTestArrayStack_Top\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestBrowser in algorithm/src/08-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/08-stack" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/07-linkedlist" />
+      <package value="algorithm/src/08-stack" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_FindMiddleNode\E$" />
+      <pattern value="^\QTestBrowser\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLinkedList_HasCycle in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStackLinkedList_Pop in algorithm/src/08-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/08-stack" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/07-linkedlist" />
+      <package value="algorithm/src/08-stack" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_HasCycle\E$" />
+      <pattern value="^\QTestStackLinkedList_Pop\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestLinkedList_Reverse in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStackLinkedList_Push in algorithm/src/08-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/08-stack" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/07-linkedlist" />
+      <package value="algorithm/src/08-stack" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestLinkedList_Reverse\E$" />
+      <pattern value="^\QTestStackLinkedList_Push\E$" />
       <method v="2" />
     </configuration>
-    <configuration name="TestMergeSortedList in algorithm/src/07-linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+    <configuration name="TestStackLinkedList_Top in algorithm/src/08-stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
       <module name="algorithm" />
-      <working_directory value="$PROJECT_DIR$/src/07-linkedlist" />
+      <working_directory value="$PROJECT_DIR$/src/08-stack" />
       <framework value="gotest" />
       <kind value="PACKAGE" />
-      <package value="algorithm/src/07-linkedlist" />
+      <package value="algorithm/src/08-stack" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$" />
-      <pattern value="^\QTestMergeSortedList\E$" />
+      <pattern value="^\QTestStackLinkedList_Top\E$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Test.TestLinkedList_FindMiddleNode in algorithm/src/07-linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_DeleteBottomN in algorithm/src/07-linkedlist" />
-        <item itemvalue="Go Test.TestMergeSortedList in algorithm/src/07-linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_HasCycle in algorithm/src/07-linkedlist" />
-        <item itemvalue="Go Test.TestLinkedList_Reverse in algorithm/src/07-linkedlist" />
+        <item itemvalue="Go Test.TestBrowser in algorithm/src/08-stack" />
+        <item itemvalue="Go Test.TestStackLinkedList_Pop in algorithm/src/08-stack" />
+        <item itemvalue="Go Test.TestStackLinkedList_Top in algorithm/src/08-stack" />
+        <item itemvalue="Go Test.TestStackLinkedList_Push in algorithm/src/08-stack" />
+        <item itemvalue="Go Test.TestArrayStack_Top in algorithm/src/08-stack" />
       </list>
     </recent_temporary>
   </component>
